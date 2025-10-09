@@ -107,3 +107,17 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Visitor globe container */
+.visitor-globe-container {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 2em auto;
+    text-align: center;
+    overflow: hidden;
+    
+    iframe {
+        max-width: 100%;
+        max-height: 300px;
+    }
+}
