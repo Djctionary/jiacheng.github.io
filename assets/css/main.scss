@@ -121,3 +121,12 @@ h1:before, .anchor:before {
         max-height: 300px;
     }
 }
+
+/* Site background: SVG fixed, responsive cover, no scroll */
+html {
+    background-image: url('{{ "/images/background.svg" | relative_url }}');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -10,7 +10,7 @@ Modern, responsive academic homepage powered by Jekyll (Minimal Mistakes based).
 
 ## Overview
 
-This repository hosts the source code of my personal academic homepage. It is built on top of the Minimal Mistakes theme and the "AcadHomepage" starter, with custom sections for publications, news, projects, honors, education, and internships.
+This repository hosts the source code of my personal academic homepage. It is built on top of the Minimal Mistakes theme and the "AcadHomepage" starter, with custom sections for publications, news, projects, honors, educations, and internships.
 
 Live site: https://djctionary.github.io/
 
@@ -38,7 +38,7 @@ Push to the `main` branch. GitHub Pages will publish to `https://<USERNAME>.gith
   - Name, avatar: `images/Jiacheng_Dong.jpg`
   - Location, email, Google Scholar, LinkedIn, GitHub
 - About page contents: `_pages/about.md`
-  - Bio, news, publications (with cover images), honors, education, internships
+  - Bio, news, publications (with cover images), honors, educations, internships
   - Projects: links to Palm Stream and Skinova
 - Images: place under `images/` (e.g., `PPHA.jpg`, `MPDD.png`, `HGF-MiLaG.png`)
 - Styles: `assets/css/main.scss`

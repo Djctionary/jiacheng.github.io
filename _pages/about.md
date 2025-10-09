@@ -80,7 +80,7 @@ Sensors
 - *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
 - *2024-2025* **Reviewer** – AAAI, ACM MM, and BESC conferences 
 
-# 📖 Education
+# 📖 Educations
 - *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Sydney, Australia  
   GPA: 90.3/100
 - *2022.09 - 2024.06*, **B.S. in Computer Science**, Northeastern University (NEU), Qinhuangdao, China  
