@@ -23,7 +23,7 @@ My research interests focus on deploying AI algorithms, especially Reinforcement
 
 In my spare time, I'm passionate about developing AI applications for health and wellness. I collaborate with [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. student at UTS) on web-based AI health platforms, including [Palm Stream](https://palmstream.net) and [Skinova](https://skinova.au), which leverage AI technology to help people live healthier lives through smart skincare analysis and personalized health solutions.
 
-I am currently looking for Ph.D. positions starting Fall 2026. You can check my CV here: {{ '/docs/JiachengDongCV.pdf' | relative_url }}
+I am currently looking for Ph.D. positions starting Fall 2026. You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url }})
 
 
 # 🔥 News
