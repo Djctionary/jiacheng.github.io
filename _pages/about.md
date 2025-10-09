@@ -17,42 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I am a fourth-year undergraduate student working at the Robotics Institute under [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda) at the University of Technology Sydney (UTS). I spent my first two college years at Northeastern University (NEU), where I joined the [HACI Lab](https://cz26.github.io/CZ-HP/lab/) and was advised by [Dr. Changzeng Fu](https://cz26.github.io/CZ-HP/lab/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests focus on deploying AI algorithms, especially Reinforcement Learning (RL), to control robots (quadruped/humanoid) and autonomous systems. I am still expanding my horizons and exploring new areas in this field.
+
+In my spare time, I'm passionate about developing AI applications for health and wellness. I collaborate with [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. student at UTS) on web-based AI health platforms, including [Palm Stream](https://palmstream.net) and [Skinova](https://skinova.au), which leverage AI technology to help people live healthier lives through smart skincare analysis and personalized health solutions.
+
+I am currently looking for Ph.D. positions starting Fall 2026. You can check my CV here: [📄 CV](#)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME) 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/PPHA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**PPHA: Pre-Post Hidden Alignment for Multi-Task Speech Model Distillation with Rapid Convergence**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiacheng Dong**, Changzeng Fu, Jiadong Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ICASSP 2026 (Under Review)
+
+- A novel knowledge distillation framework for multi-task speech models that achieves rapid convergence through pre-post hidden state alignment.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/MPDD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The First MPDD Challenge: Multimodal Personality-aware Depression Detection**
+
+Changzeng Fu, Zelin Fu, Xinhe Kuang, **Jiacheng Dong**, et al.
+
+ACM MM 2025
+
+[🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/)
+
+- The first multimodal challenge on personality-aware depression detection, featuring datasets from both elderly clinical patients and young university students.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors</div><img src='images/HGF-MiLaG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HGF-MiLaG: Hierarchical Graph Fusion for Emotion Recognition in Conversation with Mid-Late Gender-Aware Strategy**
+
+Y Wang, R Hao, Z Li, X Kuang, **J Dong**, et al.
+
+Sensors
+
+[🌐 Paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=HjyLq8AAAAAJ&citation_for_view=HjyLq8AAAAAJ:u5HHmVD_uO8C) | [📃 Code](https://github.com/floatingdream2003/HGF-MiLaG)
+
+- A hierarchical graph fusion framework with gender-aware strategy for emotion recognition in conversations.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* **Dean's List** – University of Technology Sydney (UTS)
+- *2024* **National Second Prize** – 23rd National RoboMaster Super Combat Competition
+- *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
+- *2024-2025* **Reviewer** – AAAI, ACM MM, and BESC conferences 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Sydney, Australia  
+  GPA: 90.3/100
+- *2022.09 - 2024.06*, **B.S. in Computer Science**, Northeastern University (NEU), Qinhuangdao, China  
+  GPA: 88.1/100 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2024.12*, **Front-end Engineer**, Qin Xun Zhixin Technology (Zhejiang) Co., Ltd., China  
+  Department: Web Application Development
+- *2024.03 - 2025.03*, **Full-Stack Engineer**, Cloud Xidong Big Data Technology (Qinhuangdao) Co., Ltd., China  
+  Department: Web Application Development
+
+# 🚀 Projects
+- **[Palm Stream](https://palmstream.net)** - AI-powered health and longevity technology platform  
+  *Collaborator: [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. @ UTS)*  
+  A startup focused on leveraging AI technologies for health monitoring and wellness optimization.
+
+- **[Skinova](https://skinova.au)** - Smart skincare ecosystem with AI-driven analysis  
+  *Collaborator: [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. @ UTS)*  
+  An integrated platform combining AI skin analysis, personalized skincare guidance, and professional medical aesthetic solutions through hardware-software integration and content-driven innovation.
