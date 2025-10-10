@@ -81,9 +81,9 @@ Sensors
 - *2024-2025* **Reviewer** – AAAI, ACM MM, and BESC conferences 
 
 # 📖 Educations
-- *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Sydney, Australia  
+- *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Australia  
   GPA: 90.3/100
-- *2022.09 - 2024.06*, **B.S. in Computer Science**, Northeastern University (NEU), Qinhuangdao, China  
+- *2022.09 - 2024.06*, **B.S. in Computer Science**, Northeastern University (NEU), China  
   GPA: 88.1/100 
 
 # 💻 Internships
