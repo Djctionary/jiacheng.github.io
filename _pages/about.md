@@ -109,7 +109,7 @@ Sensors 2025
 
 **A Vine-inspired Solution for Enhancing Safety and Efficiency in Broadband Cable Installation**
 
-Nathan Rees, Sarath Kodagoda, Karthick Thiyagarajan, Sangmim Song, Yara Fakoua, Damian Sue, Chloe Judson, Jack Hibbard, Jackson Russell, **Jiacheng Dong**, Ray Owen, Eleanor Forwood, Steve Love, Catherine Howard
+Nathan Rees, Sarath Kodagoda, Karthick Thiyagarajan, Sangmim Song, Yara Fakoua, Damian Sue, Chloe Judson, Jack Hibbard, Jackson Russell, **Jiacheng Dong**, et al.
 
 ACRA 2025 (Australasian Conference on Robotics and Automation)
 
