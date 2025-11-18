@@ -66,7 +66,7 @@ WWW 2026 (Under Review)
 
 **PPHA: Pre-Post Hidden Alignment for Multi-Task Speech Model Distillation with Rapid Convergence**
 
-**Jiacheng Dong**, Changzeng Fu, Jiadong Wang
+**Jiacheng Dong**, [Changzeng Fu](https://cz26.github.io/CZ-HP/lab/), Jiadong Wang
 
 ICASSP 2026 (Under Review)
 
@@ -79,7 +79,7 @@ ICASSP 2026 (Under Review)
 
 **The First MPDD Challenge: Multimodal Personality-aware Depression Detection**
 
-Changzeng Fu, Zelin Fu, Xinhe Kuang, **Jiacheng Dong**, et al.
+[Changzeng Fu](https://cz26.github.io/CZ-HP/lab/), [Zelin Fu](https://zin-fu.github.io/Zelin-Fu.github.io/), Xinhe Kuang, **Jiacheng Dong**, et al.
 
 ACM MM 2025
 
@@ -109,7 +109,7 @@ Sensors 2025
 
 **A Vine-inspired Solution for Enhancing Safety and Efficiency in Broadband Cable Installation**
 
-Nathan Rees, Sarath Kodagoda, Karthick Thiyagarajan, Sangmim Song, Yara Fakoua, Damian Sue, Chloe Judson, Jack Hibbard, Jackson Russell, **Jiacheng Dong**, et al.
+Nathan Rees, [Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda), Karthick Thiyagarajan, Sangmim Song, Yara Fakoua, Damian Sue, Chloe Judson, Jack Hibbard, Jackson Russell, **Jiacheng Dong**, et al.
 
 ACRA 2025 (Australasian Conference on Robotics and Automation)
 
