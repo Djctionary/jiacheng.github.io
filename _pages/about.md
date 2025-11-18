@@ -29,7 +29,37 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME) 
 
+# 🤖 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/UnitreeGo2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Goal-Directed Navigation for Unitree Go2 in Isaac Sim Using Reinforcement Learning**
+
+**Jiacheng Dong**
+
+*Support: UTS Robotics Institute*
+
+[🎥 Video Demo](https://youtu.be/0b45lL_OgjI)
+
+- A reinforcement learning-based navigation system for the Unitree Go2 quadruped robot in Isaac Sim simulation environment, enabling autonomous goal-directed locomotion.
+</div>
+</div>
+
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/UnderReview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FilterRec: An Intent-Aware Framework for Dynamic Filter Recommendation**
+
+Dingxian Wang, **Jiacheng Dong**, Jiaqi Deng, Jing Long, et al.
+
+WWW 2026 (Under Review)
+
+- An intent-aware framework for dynamic filter recommendation systems.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/PPHA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,18 +89,33 @@ ACM MM 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors</div><img src='images/HGF-MiLaG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/HGF-MiLaG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HGF-MiLaG: Hierarchical Graph Fusion for Emotion Recognition in Conversation with Mid-Late Gender-Aware Strategy**
 
 Y Wang, R Hao, Z Li, X Kuang, **J Dong**, et al.
 
-Sensors
+Sensors 2025
 
 [🌐 Paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=HjyLq8AAAAAJ&citation_for_view=HjyLq8AAAAAJ:u5HHmVD_uO8C) | [📃 Code](https://github.com/floatingdream2003/HGF-MiLaG)
 
 - A hierarchical graph fusion framework with gender-aware strategy for emotion recognition in conversations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACRA 2025</div><img src='images/Soft Robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Vine-inspired Solution for Enhancing Safety and Efficiency in Broadband Cable Installation**
+
+Nathan Rees, Sarath Kodagoda, Karthick Thiyagarajan, Sangmim Song, Yara Fakoua, Damian Sue, Chloe Judson, Jack Hibbard, Jackson Russell, **Jiacheng Dong**, Ray Owen, Eleanor Forwood, Steve Love, Catherine Howard
+
+ACRA 2025 (Australasian Conference on Robotics and Automation)
+
+[📄 Paper](https://drive.google.com/file/d/1zeAJcETJq1KT7dmOi3jv3YeEAbqe2jJQ/view?usp=sharing)
+
+- A vine-inspired robotic solution for safer and more efficient broadband cable installation.
 </div>
 </div>
 
@@ -92,7 +137,7 @@ Sensors
 - *2024.03 - 2025.03*, **Full-Stack Engineer**, Cloud Xidong Big Data Technology (Qinhuangdao) Co., Ltd., China  
   Department: Web Application Development
 
-# 🚀 Projects
+# 🌐 Web Development
 - **[Palm Stream](https://palmstream.net)** - AI-powered health and longevity technology platform  
   *Collaborator: [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. @ UTS)*  
   A startup focused on leveraging AI technologies for health monitoring and wellness optimization.
