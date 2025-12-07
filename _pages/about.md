@@ -57,6 +57,8 @@ Dingxian Wang, **Jiacheng Dong**, Jiaqi Deng, Jing Long, et al.
 
 WWW 2026 (Under Review)
 
+[📃 Paper](https://drive.google.com/file/d/1d6VriY-AimPp1Pavui1QqqeeEZHHJLXJ/view?usp=sharing)
+
 - An intent-aware framework for dynamic filter recommendation systems.
 </div>
 </div>
@@ -69,6 +71,8 @@ WWW 2026 (Under Review)
 **Jiacheng Dong**, [Changzeng Fu](https://cz26.github.io/CZ-HP/lab/), Jiadong Wang
 
 ICASSP 2026 (Under Review)
+
+[📄 Paper](https://drive.google.com/file/d/1l1jfVBXZXVHmEO4A2QNrbDmtQWEmEd27/view?usp=sharing)
 
 - A novel knowledge distillation framework for multi-task speech models that achieves rapid convergence through pre-post hidden state alignment.
 </div>
@@ -98,7 +102,7 @@ Y Wang, R Hao, Z Li, X Kuang, **J Dong**, et al.
 
 Sensors 2025
 
-[🌐 Paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=HjyLq8AAAAAJ&citation_for_view=HjyLq8AAAAAJ:u5HHmVD_uO8C) | [📃 Code](https://github.com/floatingdream2003/HGF-MiLaG)
+[📃 Paper](https://scholar.google.co.in/citations?view_op=view_citation&hl=en&user=HjyLq8AAAAAJ&citation_for_view=HjyLq8AAAAAJ:u5HHmVD_uO8C) | [🤖 Code](https://github.com/floatingdream2003/HGF-MiLaG)
 
 - A hierarchical graph fusion framework with gender-aware strategy for emotion recognition in conversations.
 </div>
