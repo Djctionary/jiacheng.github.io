@@ -27,7 +27,8 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME) 
+- *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
+- *2025.12*: &nbsp;🎉🎉 I joined X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), supervised by [peng-zhihui](https://github.com/peng-zhihui). 
 
 # 🤖 Projects
 
@@ -48,7 +49,7 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/UnderReview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/FilterRec_pipeline.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FilterRec: An Intent-Aware Framework for Dynamic Filter Recommendation**
@@ -125,7 +126,7 @@ ACRA 2025 (Australasian Conference on Robotics and Automation)
 
 # 🎖 Honors and Awards
 - *2025* **Dean's List** – University of Technology Sydney (UTS)
-- *2024* **National Second Prize** – 23rd National RoboMaster Super Combat Competition
+- *2024* **National Third Prize** – 23rd National RoboMaster Super Combat Competition
 - *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
 - *2024-2025* **Reviewer** – AAAI, ACM MM, and BESC conferences 
 
@@ -136,10 +137,12 @@ ACRA 2025 (Australasian Conference on Robotics and Automation)
   GPA: 88.1/100 
 
 # 💻 Internships
-- *2024.08 - 2024.12*, **Front-end Engineer**, Qin Xun Zhixin Technology (Zhejiang) Co., Ltd., China  
-  Department: Web Application Development
-- *2024.03 - 2025.03*, **Full-Stack Engineer**, Cloud Xidong Big Data Technology (Qinhuangdao) Co., Ltd., China  
-  Department: Web Application Development
+- *2025.12 - 2026.06*, **Reinforcement Learning Motion Control Engineer**, Shanghai AgiBot Innovation Technology Co., Ltd., China  
+  Department: X-Lab (Full-Time)
+- *2025.08 - 2025.12*, **Front-end Engineer**, Qin Xun Zhixin Technology (Zhejiang) Co., Ltd., China  
+  Department: Web Application Development (Casual)
+- *2025.03 - 2026.03*, **Full-Stack Engineer**, Cloud Xidong Big Data Technology (Qinhuangdao) Co., Ltd., China  
+  Department: Web Application Development (Casual)
 
 # 🌐 Web Development
 - **[Palm Stream](https://palmstream.net)** - AI-powered health and longevity technology platform  
