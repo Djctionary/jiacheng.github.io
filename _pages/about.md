@@ -28,7 +28,7 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
-- *2025.12*: &nbsp;🎉🎉 I joined X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), supervised by [peng-zhihui](https://github.com/peng-zhihui). 
+- *2025.12*: &nbsp;🎉🎉 I joined X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), supervised by [Zhihui Peng](https://github.com/peng-zhihui). 
 
 # 🤖 Projects
 
@@ -49,7 +49,7 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/FilterRec_pipeline.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/FilterRec_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FilterRec: An Intent-Aware Framework for Dynamic Filter Recommendation**
