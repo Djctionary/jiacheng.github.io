@@ -56,7 +56,7 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 
 Dingxian Wang, **Jiacheng Dong**, Jiaqi Deng, Jing Long, et al.
 
-WWW 2026 (Under Review)
+WWW 2026
 
 [📃 Paper](https://drive.google.com/file/d/1d6VriY-AimPp1Pavui1QqqeeEZHHJLXJ/view?usp=sharing)
 
