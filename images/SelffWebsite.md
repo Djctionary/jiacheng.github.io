@@ -38,7 +38,6 @@ Y Wang, R Hao, Z Li, X Kuang, **J Dong**, et al.
 - **Dean’s List** – UTS (2025)
 - **First Prize,** Full Scholarshiop - HACI LAB (2023-2024)
 - **National Second Prize** – 23rd National RoboMaster Super Combat (2024)
-- **Reviewer** of AAAI, ACM MM, and BESC
 
 
 

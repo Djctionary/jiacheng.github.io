@@ -128,7 +128,6 @@ ACRA 2025 (Australasian Conference on Robotics and Automation)
 - *2025* **Dean's List** – University of Technology Sydney (UTS)
 - *2024* **National Third Prize** – 23rd National RoboMaster Super Combat Competition
 - *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
-- *2024-2025* **Reviewer** – AAAI, ACM MM, and BESC conferences 
 
 # 📖 Educations
 - *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Australia  
