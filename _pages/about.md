@@ -94,7 +94,7 @@ ACM MM 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/HGF-MiLaG.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/HGF-MiLaG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HGF-MiLaG: Hierarchical Graph Fusion for Emotion Recognition in Conversation with Mid-Late Gender-Aware Strategy**
@@ -107,7 +107,7 @@ Sensors 2025
 
 - A hierarchical graph fusion framework with gender-aware strategy for emotion recognition in conversations.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACRA 2025</div><img src='images/Soft Robot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
