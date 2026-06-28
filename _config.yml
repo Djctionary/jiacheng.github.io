@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiacheng Dong"
-description              : "Fourth-year undergraduate student in Robotics and Software Engineering, working on AI for Robotics"
+description              : ""
 repository               : "djctionary/jiacheng.github.io"
 url                      : "https://djctionary.github.io"
 baseurl                  : "/jiacheng.github.io"
@@ -24,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiacheng Dong"
-  avatar           : "images/Jiacheng_Dong.jpg"
-  bio              : "Undergraduate @ UTS | Robotics & AI"
-  location         : "Sydney, Australia"
+  avatar           : "images/2026_portrait.png"
+  bio              : "Toward Companion Humanoids<br>M.S. Robotics · UPenn GRASP Lab"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HjyLq8AAAAAJ"
-  email            : "jiacheng.dong@student.uts.edu.au"
+  email            : "jcdong@seas.upenn.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

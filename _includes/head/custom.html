@@ -1,8 +1,8 @@
-{% assign logo_href = '/images/Logo.jpg' | relative_url %}
-<!-- Use Logo.jpg exclusively as site icon (cache-busted) -->
-<link rel="apple-touch-icon" href="{{ logo_href }}?v=3">
-<link rel="icon" type="image/jpeg" href="{{ logo_href }}?v=3">
-<link rel="shortcut icon" type="image/jpeg" href="{{ logo_href }}?v=3">
+{% assign logo_href = '/images/Logo.png' | relative_url %}
+<!-- Use Logo.png exclusively as site icon (cache-busted) -->
+<link rel="apple-touch-icon" href="{{ logo_href }}?v=5">
+<link rel="icon" type="image/png" href="{{ logo_href }}?v=5">
+<link rel="shortcut icon" type="image/png" href="{{ logo_href }}?v=5">
 <link rel="manifest" href="images/site.webmanifest">
 
 <meta name="msapplication-TileColor" content="#000000">
@@ -10,6 +10,11 @@
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
+
+<!-- Crimson Pro for section titles / headings -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap">
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">

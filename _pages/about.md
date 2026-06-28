@@ -17,29 +17,81 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a fourth-year undergraduate student working at the Robotics Institute under [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda) at the University of Technology Sydney (UTS). I spent my first two college years at Northeastern University (NEU), where I joined the [HACI Lab](https://cz26.github.io/CZ-HP/lab/) and was advised by [Dr. Changzeng Fu](https://cz26.github.io/CZ-HP/lab/).
+Hi, I am Jiacheng Dong, an incoming Master's student in Robotics at the University of Pennsylvania (UPenn), joining the [GRASP Lab](https://www.grasp.upenn.edu/). I completed my undergraduate studies at the University of Technology Sydney (UTS), where I worked at the Robotics Institute under [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda), after spending my first two years at Northeastern University (NEU) in the [HACI Lab](https://cz26.github.io/CZ-HP/lab.html), advised by [Prof. Changzeng Fu](https://cz26.github.io/CZ-HP/).
 
-My research interests focus on deploying AI algorithms, especially Reinforcement Learning (RL), to control robots (quadruped/humanoid) and autonomous systems. I am still expanding my horizons and exploring new areas in this field.
+My research focuses on physics-based humanoid motion generation and retargeting, spanning both humanoid robots and game avatars. My long-term goal is to build capable companion humanoids that move and interact naturally in the physical world.
 
-In my spare time, I'm passionate about developing AI applications for health and wellness. I collaborate with [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. student at UTS) on web-based AI health platforms, including [Palm Stream](https://palmstream.net) and [Skinova](https://skinova.au), which leverage AI technology to help people live healthier lives through smart skincare analysis and personalized health solutions.
-
-I am currently looking for Ph.D. positions starting Fall 2026. You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url }})
+You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url }})
 
 
-# 🔥 News
-- *2025.02*: &nbsp;🎉🎉 *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
-- *2025.12*: &nbsp;🎉🎉 I joined X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), supervised by [Zhihui Peng](https://github.com/peng-zhihui). 
+# News
+- *2026.06*: &nbsp;I am doing my summer internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid motion imitation and generation.
+- *2025.12*: &nbsp;I did my winter internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid whole-body motion control.
+- *2025.02*: &nbsp;*The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
 
-# 🤖 Projects
+# Affiliation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics</div><img src='images/UnitreeGo2.jpg' alt="sym" width="100%"></div></div>
+<div class="affil-row">
+
+  <div class="affil-card">
+    <div class="affil-card__logo"><img class="logo-neu" src="images/NEU.png" alt="Northeastern University"></div>
+    <div class="affil-card__role">B.S. CS</div>
+    <div class="affil-card__org">Northeastern University</div>
+    <div class="affil-card__sub"><strong><a href="https://cz26.github.io/CZ-HP/lab.html">HACI Lab</a></strong><br>Advised by <a href="https://cz26.github.io/CZ-HP/">Prof. Changzeng Fu</a></div>
+    <div class="affil-card__date">Sep 2022 &ndash; Jun 2026</div>
+  </div>
+
+  <div class="affil-card">
+    <div class="affil-card__logo"><img class="logo-uts" src="images/UTS.png" alt="University of Technology Sydney"></div>
+    <div class="affil-card__role">B.Eng. Software</div>
+    <div class="affil-card__org">University of Technology Sydney</div>
+    <div class="affil-card__sub"><strong>Robotics Institute</strong><br>Advised by <a href="https://profiles.uts.edu.au/Sarath.Kodagoda">Prof. Sarath Kodagoda</a></div>
+    <div class="affil-card__date">Aug 2024 &ndash; Jun 2026</div>
+  </div>
+
+  <div class="affil-card">
+    <div class="affil-card__logo"><img class="logo-agibot" src="images/Agibot_logo.png" alt="AgiBot"></div>
+    <div class="affil-card__role">Research Intern</div>
+    <div class="affil-card__org"><a href="https://www.agibot.com/">AGIBOT Innovation Technology</a></div>
+    <div class="affil-card__sub"><strong>X-Lab</strong><br>Advised by <a href="https://github.com/peng-zhihui">Zhihui Peng</a></div>
+    <div class="affil-card__date">Dec 2025 &ndash; Jan 2026<br>Jun 2026 &ndash; Aug 2026</div>
+  </div>
+
+  <div class="affil-card">
+    <div class="affil-card__logo"><img class="logo-penn" src="images/Upenn.png" alt="University of Pennsylvania"></div>
+    <div class="affil-card__role">M.S. Robotics</div>
+    <div class="affil-card__org">University of Pennsylvania</div>
+    <div class="affil-card__sub"><strong><a href="https://www.grasp.upenn.edu/">GRASP Lab</a></strong></div>
+    <div class="affil-card__date">Aug 2026 &ndash; Present</div>
+  </div>
+
+</div>
+
+# Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Humanoid</div><img src='images/41118.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Co-speech Gestures from Humans to Humanoid Robots: An End-to-End Retargeting & Reinforcement-Learning Mimic Pipeline**
+
+**Jiacheng Dong**, Shanjin Li
+
+*UTS 41118 · Artificial Intelligence in Robotics*
+
+[🌐 Project Portfolio](https://djctionary.github.io/UTS_41118_Project_Portfolio/)
+
+- An end-to-end pipeline that recovers 3D human motion from video, retargets it to the NAO humanoid, and trains an RL policy for stable gesture imitation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Quadruped</div><img src='images/43008.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Goal-Directed Navigation for Unitree Go2 in Isaac Sim Using Reinforcement Learning**
 
 **Jiacheng Dong**
 
-*Support: UTS Robotics Institute*
+*UTS 43008 · Reinforcement Learning*
 
 [🎥 Video Demo](https://youtu.be/0b45lL_OgjI)
 
@@ -47,7 +99,7 @@ I am currently looking for Ph.D. positions starting Fall 2026. You can check my 
 </div>
 </div>
 
-# 📝 Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/FilterRec_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,14 +116,14 @@ WWW 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/PPHA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/coming-soon.svg' alt="Coming Soon" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PPHA: Pre-Post Hidden Alignment for Multi-Task Speech Model Distillation with Rapid Convergence**
 
-**Jiacheng Dong**, [Changzeng Fu](https://cz26.github.io/CZ-HP/lab/), Jiadong Wang
+**Jiacheng Dong**, Jingchao Xu, Shiqi Zhao, and Changzeng Fu
 
-ICASSP 2026 (Under Review)
+Coming Soon
 
 [📄 Paper](https://drive.google.com/file/d/1l1jfVBXZXVHmEO4A2QNrbDmtQWEmEd27/view?usp=sharing)
 
@@ -109,7 +161,7 @@ Sensors 2025
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACRA 2025</div><img src='images/Soft Robot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACRA 2025</div><img src='images/Pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Vine-inspired Solution for Enhancing Safety and Efficiency in Broadband Cable Installation**
@@ -124,30 +176,26 @@ ACRA 2025 (Australasian Conference on Robotics and Automation)
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Web Development
+- **[Palm Stream](https://palmstream.net)** - AI-powered health and longevity technology platform  
+  *Collaborator: [Ziyi Zhao](https://github.com/Jacoo-Zhao)*  
+  A startup focused on leveraging AI technologies for health monitoring and wellness optimization.
+
+- **[Skinova](https://skinova.au)** - Smart skincare ecosystem with AI-driven analysis  
+  *Collaborator: [Ziyi Zhao](https://github.com/Jacoo-Zhao)*  
+  An integrated platform combining AI skin analysis, personalized skincare guidance, and professional medical aesthetic solutions through hardware-software integration and content-driven innovation.
+
+- **[EnglishMaster](https://englishmaster.space)** - Learn English from real sentences  
+  *Solo project (design & development)*  
+  A self-designed English learning platform that builds vocabulary and grammar through contextual, sentence-based practice.
+
+# Honors and Awards
 - *2025* **Dean's List** – University of Technology Sydney (UTS)
 - *2024* **National Third Prize** – 23rd National RoboMaster Super Combat Competition
 - *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
 
-# 📖 Educations
-- *2024.08 - Present*, **B.S. in Software Engineering with Honours**, University of Technology Sydney (UTS), Australia  
-  GPA: 90.3/100
-- *2022.09 - 2024.06*, **B.S. in Computer Science**, Northeastern University (NEU), China  
-  GPA: 88.1/100 
+# Acknowledgement
 
-# 💻 Internships
-- *2025.12 - 2026.06*, **Reinforcement Learning Motion Control Engineer**, Shanghai AgiBot Innovation Technology Co., Ltd., China  
-  Department: X-Lab (Full-Time)
-- *2025.08 - 2025.12*, **Front-end Engineer**, Qin Xun Zhixin Technology (Zhejiang) Co., Ltd., China  
-  Department: Web Application Development (Casual)
-- *2025.03 - 2026.03*, **Full-Stack Engineer**, Cloud Xidong Big Data Technology (Qinhuangdao) Co., Ltd., China  
-  Department: Web Application Development (Casual)
+My deepest gratitude goes to [Prof. Changzeng Fu](https://cz26.github.io/CZ-HP/), who first led me into research and has been far more than an advisor to me.
 
-# 🌐 Web Development
-- **[Palm Stream](https://palmstream.net)** - AI-powered health and longevity technology platform  
-  *Collaborator: [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. @ UTS)*  
-  A startup focused on leveraging AI technologies for health monitoring and wellness optimization.
-
-- **[Skinova](https://skinova.au)** - Smart skincare ecosystem with AI-driven analysis  
-  *Collaborator: [Ziyi Zhao](https://ziyizhao-bio.github.io/) (Ph.D. @ UTS)*  
-  An integrated platform combining AI skin analysis, personalized skincare guidance, and professional medical aesthetic solutions through hardware-software integration and content-driven innovation.
+I am also sincerely grateful to [Prof. Angela Huo](https://profiles.uts.edu.au/Huan.Huo), who supported me in many aspects of my life at UTS, and to [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda), who gave me the opportunity to deploy what I learned on real robots.

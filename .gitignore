@@ -1,3 +1,9 @@
 _site/
 push.sh
 .DS_Store
+
+# local build & tooling (not needed for GitHub Pages)
+vendor/
+.bundle/
+.sass-cache/
+.claude/
