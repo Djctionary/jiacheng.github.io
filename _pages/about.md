@@ -125,8 +125,6 @@ WWW 2026
 
 Coming Soon
 
-[📄 Paper](https://drive.google.com/file/d/1l1jfVBXZXVHmEO4A2QNrbDmtQWEmEd27/view?usp=sharing)
-
 - A novel knowledge distillation framework for multi-task speech models that achieves rapid convergence through pre-post hidden state alignment.
 </div>
 </div>
