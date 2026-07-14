@@ -238,6 +238,9 @@ h1, h2, h3, h4, h5, h6 {
     font-size: .8em;
 }
 
+/* Background left to the theme default (white from $body-color / $background-color).
+   The previous decorative SVG remains at /images/background.svg but is unused. */
+
 /* Visitor globe container */
 .visitor-globe-container {
     max-width: 300px;
@@ -245,15 +248,12 @@ h1, h2, h3, h4, h5, h6 {
     margin: 2em auto;
     text-align: center;
     overflow: hidden;
-    
+
     iframe {
         max-width: 100%;
         max-height: 300px;
     }
 }
-
-/* Background left to the theme default (white from $body-color / $background-color).
-   The previous decorative SVG remains at /images/background.svg but is unused. */
 
 /* Portrait avatar: rounded-rectangle frame; photo zoomed inside the same frame.
    Only the wrapping DIV is the clipping frame (use > so the img isn't matched;
