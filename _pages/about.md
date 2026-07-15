@@ -134,7 +134,7 @@ Coming Soon
 
 **The First MPDD Challenge: Multimodal Personality-aware Depression Detection**
 
-[Changzeng Fu](https://cz26.github.io/CZ-HP/lab/), [Zelin Fu](https://zin-fu.github.io/Zelin-Fu.github.io/), Xinhe Kuang, **Jiacheng Dong**, et al.
+[Changzeng Fu](https://cz26.github.io/CZ-HP/), [Zelin Fu](https://zin-fu.github.io/Zelin-Fu.github.io/), Xinhe Kuang, **Jiacheng Dong**, et al.
 
 ACM MM 2025
 

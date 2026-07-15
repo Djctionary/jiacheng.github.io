@@ -11,12 +11,15 @@
     {% endfor %}
   {% endif %}
 
-  <!-- Visitor globe, sized to the sidebar's own rendered width so it
-       scales with the sidebar instead of using a fixed pixel size.
-       The script must stay nested INSIDE .visitor-globe-container, not
-       as a sibling: .sticky > * forces display:block on direct children
-       of .sidebar.sticky at the desktop breakpoint, which would override
-       a <script> tag's default display:none and leak its source as text. -->
+  {% comment %}
+  Visitor globe, sized to the sidebar's own rendered width so it
+  scales with the sidebar instead of using a fixed pixel size.
+  The script must stay nested INSIDE .visitor-globe-container, not
+  as a sibling: .sticky > * forces display:block on direct children
+  of .sidebar.sticky at the desktop breakpoint, which would override
+  a <script> tag's default display:none and leak its source as text.
+
+  Disabled site-wide (mobile and desktop) per request.
   <div class="visitor-globe-container">
     <script>
       (function () {
@@ -30,5 +33,6 @@
       })();
     </script>
   </div>
+  {% endcomment %}
   </div>
 {% endif %}
