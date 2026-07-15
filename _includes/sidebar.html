@@ -12,18 +12,23 @@
   {% endif %}
 
   <!-- Visitor globe, sized to the sidebar's own rendered width so it
-       scales with the sidebar instead of using a fixed pixel size. -->
-  <div class="visitor-globe-container"></div>
-  <script>
-    (function () {
-      var container = document.currentScript.previousElementSibling;
-      var sidebar = container.closest('.sidebar');
-      var w = Math.round(sidebar.getBoundingClientRect().width) || 185;
-      w = Math.max(150, Math.min(400, w));
-      var s = document.createElement('script');
-      s.src = '//cdn.livetrafficfeed.com/static/globe-widget/live.js?w=' + w + '&root=0&n=e61c1c&o=e61c1c';
-      container.appendChild(s);
-    })();
-  </script>
+       scales with the sidebar instead of using a fixed pixel size.
+       The script must stay nested INSIDE .visitor-globe-container, not
+       as a sibling: .sticky > * forces display:block on direct children
+       of .sidebar.sticky at the desktop breakpoint, which would override
+       a <script> tag's default display:none and leak its source as text. -->
+  <div class="visitor-globe-container">
+    <script>
+      (function () {
+        var container = document.currentScript.parentElement;
+        var sidebar = container.closest('.sidebar');
+        var w = Math.round(sidebar.getBoundingClientRect().width) || 185;
+        w = Math.max(150, Math.min(400, w));
+        var s = document.createElement('script');
+        s.src = '//cdn.livetrafficfeed.com/static/globe-widget/live.js?w=' + w + '&root=0&n=e61c1c&o=e61c1c';
+        container.appendChild(s);
+      })();
+    </script>
+  </div>
   </div>
 {% endif %}
