@@ -241,18 +241,17 @@ h1, h2, h3, h4, h5, h6 {
 /* Background left to the theme default (white from $body-color / $background-color).
    The previous decorative SVG remains at /images/background.svg but is unused. */
 
-/* Visitor globe container */
+/* Visitor globe container.
+   Explicit width/height (not max-width/max-height) because the globe.js
+   widget measures this container synchronously on load to size the globe,
+   shadow, and visitor-activity dots layer; an auto-resolved max-width can
+   still read as 0 at that point, leaving the dots invisible. */
 .visitor-globe-container {
-    max-width: 300px;
-    max-height: 300px;
+    width: 300px;
+    height: 300px;
     margin: 2em auto;
     text-align: center;
     overflow: hidden;
-
-    iframe {
-        max-width: 100%;
-        max-height: 300px;
-    }
 }
 
 /* Portrait avatar: rounded-rectangle frame; photo zoomed inside the same frame.
