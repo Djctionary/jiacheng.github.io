@@ -242,16 +242,13 @@ h1, h2, h3, h4, h5, h6 {
    The previous decorative SVG remains at /images/background.svg but is unused. */
 
 /* Visitor globe container.
-   Explicit width/height (not max-width/max-height) because the globe.js
-   widget measures this container synchronously on load to size the globe,
-   shadow, and visitor-activity dots layer; an auto-resolved max-width can
-   still read as 0 at that point, leaving the dots invisible. */
+   No fixed width/height here: the livetrafficfeed widget takes its size
+   from the w= query param on its own script src, not from this container,
+   so we just center it and let it size itself (no overflow:hidden, since
+   clipping to a guessed box is what broke the previous widget's dots). */
 .visitor-globe-container {
-    width: 300px;
-    height: 300px;
     margin: 2em auto;
     text-align: center;
-    overflow: hidden;
 }
 
 /* Portrait avatar: rounded-rectangle frame; photo zoomed inside the same frame.
