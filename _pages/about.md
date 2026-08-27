@@ -25,6 +25,7 @@ You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url
 
 
 # News
+- *2026.08*: &nbsp;Together with the team, I competed in the **2nd World Humanoid Robot Games** in Beijing and won the **champion of the 100m Obstacle Race** with <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/).
 - *2026.06*: &nbsp;I am doing my summer internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid motion imitation and generation.
 - *2025.12*: &nbsp;I did my winter internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid whole-body motion control.
 - *2025.02*: &nbsp;*The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
@@ -54,7 +55,7 @@ You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url
     <div class="affil-card__role">Research Intern</div>
     <div class="affil-card__org"><a href="https://www.agibot.com/">AGIBOT Innovation Technology</a></div>
     <div class="affil-card__sub"><strong>X-Lab</strong><br>Advised by <a href="https://github.com/peng-zhihui">Zhihui Peng</a></div>
-    <div class="affil-card__date">Dec 2025 &ndash; Jan 2026<br>Jun 2026 &ndash; Aug 2026</div>
+    <div class="affil-card__date">Dec 2025 &ndash; Jan 2026<br>Jun 2026 &ndash; Present</div>
   </div>
 
   <div class="affil-card">
@@ -62,7 +63,7 @@ You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url
     <div class="affil-card__role">M.S. Robotics</div>
     <div class="affil-card__org">University of Pennsylvania</div>
     <div class="affil-card__sub"><strong><a href="https://www.grasp.upenn.edu/">GRASP Lab</a></strong></div>
-    <div class="affil-card__date">Aug 2026 &ndash; Present</div>
+    <div class="affil-card__date">Aug 2027 &ndash; Present</div>
   </div>
 
 </div>
