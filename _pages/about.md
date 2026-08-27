@@ -21,7 +21,7 @@ Hi, I am Jiacheng Dong. I will begin my Master's in Robotics at the University o
 
 My research focuses on physics-based humanoid motion generation and retargeting, spanning both humanoid robots and game avatars. My long-term goal is to build capable companion humanoids that move and interact naturally in the physical world.
 
-You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url }})
+You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url }}) *(updated Jun 2026)*
 
 
 # News
