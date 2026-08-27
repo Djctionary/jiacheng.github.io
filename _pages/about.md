@@ -189,6 +189,7 @@ ACRA 2025 (Australasian Conference on Robotics and Automation)
   A self-designed English learning platform that builds vocabulary and grammar through contextual, sentence-based practice.
 
 # Honors and Awards
+- *2026* **Dean's List** – University of Technology Sydney (UTS)
 - *2025* **Dean's List** – University of Technology Sydney (UTS)
 - *2024* **National Third Prize** – 23rd National RoboMaster Super Combat Competition
 - *2023-2024* **First Prize, Full Scholarship** – HACI Lab, Northeastern University
