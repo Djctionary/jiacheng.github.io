@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Jiacheng Dong, an incoming Master's student in Robotics at the University of Pennsylvania (UPenn), joining the [GRASP Lab](https://www.grasp.upenn.edu/). I completed my undergraduate studies at the University of Technology Sydney (UTS), where I worked at the Robotics Institute under [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda), after spending my first two years at Northeastern University (NEU) in the [HACI Lab](https://cz26.github.io/CZ-HP/lab.html), advised by [Prof. Changzeng Fu](https://cz26.github.io/CZ-HP/).
+Hi, I am Jiacheng Dong. I will begin my Master's in Robotics at the University of Pennsylvania (UPenn) in August 2027, joining the [GRASP Lab](https://www.grasp.upenn.edu/). I am currently a research intern in X-Lab at [AgiBot](https://www.agibot.com/), working on humanoid motion imitation and generation. I completed my undergraduate studies at the University of Technology Sydney (UTS), where I worked at the Robotics Institute under [Prof. Sarath Kodagoda](https://profiles.uts.edu.au/Sarath.Kodagoda), after spending my first two years at Northeastern University (NEU) in the [HACI Lab](https://cz26.github.io/CZ-HP/lab.html), advised by [Prof. Changzeng Fu](https://cz26.github.io/CZ-HP/).
 
 My research focuses on physics-based humanoid motion generation and retargeting, spanning both humanoid robots and game avatars. My long-term goal is to build capable companion humanoids that move and interact naturally in the physical world.
 
@@ -26,7 +26,7 @@ You can check my CV here: [📄 CV]({{ '/docs/JiachengDongCV.pdf' | relative_url
 
 # News
 - *2026.08*: &nbsp;Together with the team, I competed in the **2nd World Humanoid Robot Games** in Beijing and won the **champion of the 100m Obstacle Race** with <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/).
-- *2026.06*: &nbsp;I am doing my summer internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid motion imitation and generation.
+- *2026.06*: &nbsp;I joined X-Lab as a research intern at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid motion imitation and generation.
 - *2025.12*: &nbsp;I did my winter internship in X-Lab at <a href="https://www.agibot.com/" target="_blank"><img src='images/Agibot.png' alt="AgiBot" width="20px" style="vertical-align:middle; margin-right:4px; border:none;"></a>[AgiBot](https://www.agibot.com/), working on humanoid whole-body motion control.
 - *2025.02*: &nbsp;*The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, was successfully held! [🌐 Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME)
 
