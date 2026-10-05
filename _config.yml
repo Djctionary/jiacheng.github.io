@@ -24,6 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiacheng Dong"
+  nickname         : "Djctionary"
   avatar           : "images/2026_portrait.png"
   bio              : "Toward Companion Humanoids<br>M.S. Robotics · UPenn GRASP Lab"
   location         : "Shanghai, China"

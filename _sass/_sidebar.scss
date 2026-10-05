@@ -136,6 +136,18 @@
   font-size: $type-size-4;
 }
 
+.author__nickname {
+  margin: -4px 0 0;
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  color: $light-gray;
+  letter-spacing: 0.02em;
+
+  span {
+    font-weight: 600;
+  }
+}
+
 .author__bio {
   margin: 0;
 
