@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+description: "Jiacheng Dong (Djctionary) - M.S. Robotics student at UPenn GRASP Lab, working on humanoid motion generation and retargeting."
 author_profile: true
 redirect_from: 
   - /about/

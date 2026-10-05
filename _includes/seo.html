@@ -29,6 +29,10 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+{% endif %}
+
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
@@ -63,6 +67,7 @@
   {% endif %}
 {% endif %}
 
+{% comment %} Paste the token from Google Search Console into google_site_verification in _config.yml. {% endcomment %}
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
